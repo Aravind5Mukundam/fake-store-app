@@ -1,12 +1,22 @@
-# React + Vite
+Fake Store App
+A fully functional e-commerce demo built with React, Redux Toolkit, Tailwind CSS, and the Fake Store API. Users can view products, search, filter, sort, and manage favorites. 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ Features
+ Product Listing with responsive grid layout
+ Search by title (debounced)
+ Filter by category
+ Sort by price (asc/desc)
+ Product Detail Page with full product info
+ Favorite Products management (add/remove)
+ Redux Toolkit state management
+ Fully responsive and styled with Tailwind CSS v4
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Installation
+1. Clone the Repository
+      git clone https://github.com/your-username/react-ecommerce-app.git
+      cd fake-store-app
+2. Install Dependencies
+      npm install
+3. Start Development Server
+     npm run dev
+App will be available at http://localhost:5173 or 
