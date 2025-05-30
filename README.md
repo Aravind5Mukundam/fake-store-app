@@ -13,10 +13,11 @@ A fully functional e-commerce demo built with React, Redux Toolkit, Tailwind CSS
 
 Installation
 1. Clone the Repository
-      git clone [https://github.com/your-username/react-ecommerce-app.git](https://github.com/Aravind5Mukundam/fake-store-app.git)
-      cd fake-store-app
-2. Install Dependencies
+     -> git clone [https://github.com/your-username/react-ecommerce-app.git](https://github.com/Aravind5Mukundam/fake-store-app.git)
+     -> open directory: cd fake-store-app
+2. Install Dependencies:
       npm install
-3. Start Development Server
+3. Start Development Server:
      npm run dev
+   
 App will be available at http://localhost:5173 or 
